@@ -5,7 +5,7 @@
     "require": {},
     "autoload" : {
     	"psr-4" : {
-    		"Fred5ik\\StringUtils\\" : "src/Fred5ik/StringUtils"
+    		"Fred5ik\\StringUtils\\" : "src/"
     	}
     }
 }
