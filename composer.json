@@ -1,0 +1,11 @@
+{
+    "name": "fred/string-utils",
+    "minimum-stability": "dev",
+    "version" : "0.0.1",
+    "require": {},
+    "autoload" : {
+    	"psr-4" : {
+    		"Fred5ik\\StringUtils\\" : "src/Fred5ik/StringUtils"
+    	}
+    }
+}
